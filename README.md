@@ -1,13 +1,14 @@
 ### 🕷️ Hey,[I'm Axel!](https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<div align="center" width="100%">
+
   
   <b>`プ ロ グ ラ マ`</b>
   <samp>
   </div>
 
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A020F0&width=900&size=22&center=true&lines=I+am+from+Argentina;I+am+studying+full+stack;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+FullStack+in+training;I+am+from+Argentina;The+world+is+yours." alt="Typing SVG" /></a>
 </div>
     
 -------------------    
@@ -19,6 +20,12 @@
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
+
+
+</div>
+
+
+</div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AxelCeballes-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ceballesaxel79)](https://www.linkedin.com/in/ceballesaxel79) [![Gmail Badge](https://img.shields.io/badge/-axelceballes9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axelceballes9@gmail.com)](mailto:axelceballes9@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Kirou%20047%20-c14438?style=flat-square&logo=Youtube&link=[[https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A]([[https://www.youtube.com/@kirou047](https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A))](https://www.youtube.com/@kirou047)](https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A))]([[https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA](https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A)]([https://www.youtube.com/@kirou047)](https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A))
 <p align="left"> 
