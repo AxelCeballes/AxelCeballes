@@ -47,10 +47,6 @@ I'm building my path into the world of technology, learning, creating projects a
 </p>
 
 
-## Contact
- 
-</a> ![Discord](https://img.shields.io/badge/Kirou047%230474-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-
 -------------------
 
 ### Languages and Tools  
