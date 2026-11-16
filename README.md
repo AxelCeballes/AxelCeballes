@@ -27,7 +27,7 @@
 
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AxelCeballes-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ceballesaxel79)](https://www.linkedin.com/in/ceballesaxel79) [![Gmail Badge](https://img.shields.io/badge/-axelceballes9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axelceballes9@gmail.com)](mailto:axelceballes9@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-Kirou%20047%20-c14438?style=flat-square&logo=Youtube&link=[[https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A]([[https://www.youtube.com/@kirou047](https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A))](https://www.youtube.com/@kirou047)](https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A))]([[https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA](https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A)]([https://www.youtube.com/@kirou047)](https://www.youtube.com/channel/UC8jf019iSKRhpYOknM2xb1A))
+[![Linkedin Badge](https://img.shields.io/badge/-AxelCeballes-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ceballesaxel79)](https://www.linkedin.com/in/ceballesaxel79) [![Gmail Badge](https://img.shields.io/badge/-axelceballes9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:axelceballes9@gmail.com)](mailto:axelceballes9@gmail.com) 
 <p align="left"> 
 
 Welcome to my corner of GitHub.
